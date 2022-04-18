@@ -32,13 +32,13 @@ administrator Mode or student Mode and both have control board to visualize and 
 
 
 ## Screenshots
-![Main Frame](https://github.com/abdallahissa/Student-Management-system/issues/1#issue-1206581729)
+![Main Frame] (https://github.com/abdallahissa/Student-Management-system/issues/1#issue-1206581729)
 
-![Admin Control Board](https://github.com/abdallahissa/Student-Management-system/issues/2#issue-1206584322)
+![Admin Control Board] (https://github.com/abdallahissa/Student-Management-system/issues/2#issue-1206584322)
 
-![Admin Login Form](https://github.com/abdallahissa/Student-Management-system/issues/3#issue-1206584593)
+![Admin Login Form] (https://github.com/abdallahissa/Student-Management-system/issues/3#issue-1206584593)
 
-![Student Control Board](https://github.com/abdallahissa/Student-Management-system/issues/4#issue-1206585637)
+![Student Control Board] (https://github.com/abdallahissa/Student-Management-system/issues/4#issue-1206585637)
 
 
 ## Usage
