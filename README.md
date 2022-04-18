@@ -1,4 +1,4 @@
-# Student Management System with cheat and play feature using Java Swing
+# Student Management System using Java Swing
 
 > Live demo [_here_](https://youtu.be/0O8kt2rJCtU)
 
@@ -15,8 +15,8 @@
 ## General Information
 
 - It’s a desktop Application that demonstrates a Student Management System that have two Modes : 
-administrator Mode or student Mode and both have controlBoard to visualize and edit the data.
--I added some playing features by providing TicTacToe game as a cheating way to play within the studentcontrol frame.
+administrator Mode or student Mode and both have control board to visualize and edit the data.
+- I added some playing features by providing TicTacToe game as a cheating way to play within the student control frame.
 
 ## Technologies Used
 
